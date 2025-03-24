@@ -20,4 +20,8 @@ You must demonstrate the following abilities/skills: make models, controllers, m
      
 
 **Good Luck !!! Once done, please send us the link of your repo.**
+
+**GT UPDATES**
+
+To build the assets, the setup uses a minimum of Node 18. 
    
