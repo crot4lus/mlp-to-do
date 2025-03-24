@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/** GLOBAL STYLES **/
+@import 'global/base';
+@import 'global/header';
+@import 'global/footer';
+
+/** COMPONENT STYLES **/
+@import 'components/task-list';
+@import 'components/buttons';

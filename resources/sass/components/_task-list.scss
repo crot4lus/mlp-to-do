@@ -1,0 +1,13 @@
+.task-list{
+    &__input{
+        @apply bg-white text-sm p-2 rounded-md border border-solid border-gray-300 block w-full mb-4;
+    }
+
+    &__button{
+        @apply bg-brand-blue text-white w-full block text-center rounded-md p-2 text-sm;
+    }
+
+    &__container{
+        @apply bg-white px-8 py-4 rounded-md border border-solid border-gray-300;
+    }
+}
